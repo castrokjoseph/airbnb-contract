@@ -1,5 +1,5 @@
 [project]
-authors = ["Aswin Kumar"]
+authors = ["Castro K Joseph"]
 entry = "main.sw"
 license = "Apache-2.0"
 name = "airbnb-contract"
